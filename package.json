@@ -1,0 +1,20 @@
+{
+  "name": "pre-assessment",
+  "version": "1.0.0",
+  "description": "LogicTest",
+  "main": "LogicTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node LogicTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiaRizkyKh/pre-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiaRizkyKh/pre-assessment/issues"
+  },
+  "homepage": "https://github.com/LiaRizkyKh/pre-assessment#readme"
+}
