@@ -5,7 +5,7 @@
   "main": "LogicTest.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node LogicTest.js"
+    "start": "node LTest.js"
   },
   "repository": {
     "type": "git",
